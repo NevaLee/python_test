@@ -6,3 +6,4 @@
 import numpy as np
 x = np.array([0,1,0,3])
 print(x[::2])
+print("testetste111")
